@@ -10,3 +10,4 @@ dependencies:
   - langchain-community
   - langchain-huggingface
   - langchain-openai
+
